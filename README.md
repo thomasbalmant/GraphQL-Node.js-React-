@@ -1,8 +1,20 @@
-# Projeto GraphQL - Node - React - Apollo - Typescript
+# Projeto GraphQL
+
+### 🛠 Tecnologias
+
+Ferramentas usadas no FrontEnd:
+* Vite 
+* React
+* Typescript
+
+Ferramentas usadas no Backend:
+* GraphQL
+* Apollo
+* Typescript
 
 ### Pré-requisitos
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: [Node.js](https://nodejs.org/en/), [React](https://pt-br.reactjs.org/),
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: [React](https://pt-br.reactjs.org/),
 [Apollo](https://www.apollographql.com/), [GraphQL](https://graphql.org/) e [TypeScript](https://www.typescriptlang.org/)
 
 ### 🎲 Rodando o BackEnd
