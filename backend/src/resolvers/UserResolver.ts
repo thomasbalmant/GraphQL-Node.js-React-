@@ -10,7 +10,7 @@ export class UserResolver {
     async users() {
         return this.data
     }
-
+    //Ver Lib
     @Mutation(() => User)
     async createUser(
         @Arg('name') name: string
