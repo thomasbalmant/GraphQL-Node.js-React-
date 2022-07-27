@@ -26,7 +26,7 @@ export function NewUserForm() {
       variables: {
         name,
       },
-      refetchQueries: [GET_USER], //CHAMA O METODO GET_USER PARA ATUALIZAR A LISTA DOS USUARIOS CONTENDO O NOVO USUARIO CADASTRADO
+      refetchQueries: [GET_USER], 
       onCompleted: () => setName(''),
       onError: () => {}
     })
