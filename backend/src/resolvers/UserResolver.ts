@@ -1,7 +1,7 @@
 import { User } from './../models/User';
 import { Arg, Mutation, Query, Resolver } from 'type-graphql'
 import crypto from 'crypto'
-
+//CONTINUIDADE AQUI
 @Resolver()
 export class UserResolver {
     private data: User[] = []
