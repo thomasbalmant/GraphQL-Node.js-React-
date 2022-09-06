@@ -1,7 +1,7 @@
 import { useState, FormEvent } from 'react'
 import { gql, useMutation } from '@apollo/client'
 import { GET_USER } from '../App'
-
+//DAR CONTINUIDADE A ESTA PARTE
 const CREATE_USER = gql`
   mutation($name: String!) {
     createUser(name: $name) {
